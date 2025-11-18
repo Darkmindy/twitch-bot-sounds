@@ -1,0 +1,125 @@
+{
+  "version": "1.0.0",
+  "sounds": [
+    {
+      "id": "bruh",
+      "name": "Bruh Moment",
+      "category": "meme",
+      "filename": "bruh.mp3",
+      "cost": 30,
+      "cooldown": 30,
+      "aliases": ["bruh", "moment"],
+      "description": "Il classico bruh moment"
+    },
+    {
+      "id": "airhorn",
+      "name": "Airhorn",
+      "category": "meme",
+      "filename": "airhorn.mp3",
+      "cost": 25,
+      "cooldown": 30,
+      "aliases": ["airhorn", "horn"],
+      "description": "MLG airhorn"
+    },
+    {
+      "id": "fail",
+      "name": "Sad Trombone",
+      "category": "meme",
+      "filename": "sadtrombone.mp3",
+      "cost": 40,
+      "cooldown": 30,
+      "aliases": ["fail", "sad", "rip"],
+      "description": "Fail epico"
+    },
+    {
+      "id": "crickets",
+      "name": "Crickets",
+      "category": "meme",
+      "filename": "crickets.mp3",
+      "cost": 35,
+      "cooldown": 30,
+      "aliases": ["crickets", "silence"],
+      "description": "Silenzio imbarazzante"
+    },
+    {
+      "id": "wow",
+      "name": "Wow",
+      "category": "meme",
+      "filename": "wow.mp3",
+      "cost": 20,
+      "cooldown": 20,
+      "aliases": ["wow", "amazing"],
+      "description": "Owen Wilson wow"
+    },
+    {
+      "id": "levelup",
+      "name": "Level Up",
+      "category": "gaming",
+      "filename": "levelup.mp3",
+      "cost": 50,
+      "cooldown": 30,
+      "aliases": ["levelup", "lvlup", "level"],
+      "description": "Salito di livello!"
+    },
+    {
+      "id": "victory",
+      "name": "Victory",
+      "category": "gaming",
+      "filename": "victory.mp3",
+      "cost": 75,
+      "cooldown": 30,
+      "aliases": ["victory", "win", "epic"],
+      "description": "Vittoria epica"
+    },
+    {
+      "id": "gameover",
+      "name": "Game Over",
+      "category": "gaming",
+      "filename": "gameover.mp3",
+      "cost": 45,
+      "cooldown": 30,
+      "aliases": ["gameover", "death", "dead"],
+      "description": "Game over"
+    },
+    {
+      "id": "powerup",
+      "name": "Power Up",
+      "category": "gaming",
+      "filename": "powerup.mp3",
+      "cost": 40,
+      "cooldown": 25,
+      "aliases": ["powerup", "power"],
+      "description": "Power up raccolto"
+    },
+    {
+      "id": "applause",
+      "name": "Applause",
+      "category": "celebration",
+      "filename": "applause.mp3",
+      "cost": 60,
+      "cooldown": 30,
+      "aliases": ["applause", "clap"],
+      "description": "Applausi"
+    },
+    {
+      "id": "tada",
+      "name": "Tada",
+      "category": "celebration",
+      "filename": "tada.mp3",
+      "cost": 55,
+      "cooldown": 30,
+      "aliases": ["tada", "yay"],
+      "description": "Celebrazione"
+    },
+    {
+      "id": "notification",
+      "name": "Notification",
+      "category": "alert",
+      "filename": "notification.mp3",
+      "cost": 30,
+      "cooldown": 20,
+      "aliases": ["notif", "ping", "ding"],
+      "description": "Notifica"
+    }
+  ]
+}
